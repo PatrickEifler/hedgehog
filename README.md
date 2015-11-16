@@ -4,7 +4,11 @@ Hedgehog aims to close the gap between musicians and software developers in orde
 
 It implements a MIDI controller, based on the [Raspberry Pi](https://www.raspberrypi.org/) equipped with the [Sonic Pi](https://github.com/samaaron/sonic-pi) music programming environment.
 
-This MIDI controller communicates with Digital Audio Workstations (DAW), such as [Ableton Live](https://www.ableton.com) or common virtual instruments like [Native Instruments Massive](https://www.native-instruments.com/de/products/komplete/synths/massive/).
+This MIDI controller communicates with Digital Audio Workstations (DAW), such as [Ableton Live](https://www.ableton.com) or common virtual instruments like [Native Instruments Massive](https://www.native-instruments.com/de/products/komplete/synths/massive/). 
+
+From a developers perspective this MIDI controller serves as the gateway to play any virtual instrument which is installed on the host computer. In practice the developer can slip into any role in the live session, playing any instrument from piano to guitar to drums, whatever he wants to experiment with.
+
+
 
 ## Setup
 
